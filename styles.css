@@ -1,3 +1,62 @@
 body{
+	font-family: Helvetica, sans-serif;
+	background-image; "pattern.png";
 
 }
+
+
+#wrapper{
+	width: 77%;
+	center: horizontal;
+	margin: 3%;
+	margin-top: 33px;
+	margin-bottom: 33px;
+	background-color: whitesmoke;
+}
+
+#frame{
+	
+}
+
+.photo{
+	height: 100%;
+	width: 100%;
+	background-image: "cohort.png";
+}
+
+.legend{
+	color: #95484b;
+	font-size: bold;
+	center: horizontal;
+	background-color: white;
+	width: 90%;
+}
+.logo{
+	width: 11% inherit;
+	margin: 30px;
+}
+header{
+	margin: 9px;
+	background-color: ingradiant (to bottom #95484b, #af595c, #6f3032);
+}
+nav{
+	margin-top: -15px;
+	size: +30%;
+	center:;
+}
+footer{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	center: horizontal;
+}
+body{
+	underline: remove;
+	border: white, 3px;
+	background-color: #95484b;
+	font-style: white;
+	margin: 0.2em;
+}
+#heart{
+	color: deeppink;
+}
+
